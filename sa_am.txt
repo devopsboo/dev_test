@@ -15,3 +15,5 @@ git rebase
 git revert
 git merge
 git clone
+git push
+git pull
