@@ -1,0 +1,5 @@
+git log --oneline --decorate
+ccc3333 (HEAD -> master) A third commit
+bbb2222 A second commit
+aaa1111 A first commit
+9999999 Initial commit
