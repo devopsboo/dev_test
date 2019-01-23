@@ -1,0 +1,10 @@
+iHEAD -> master) A third commit
+bbb2222 A second commit
+aaa1111 A first commit
+9999999 Initial commit
+Once you've made your changes, you can add them to the index as usual, then commit them using the --fixup
+argument with a reference to the commit you want to squash into:
+$ git add .
+$ git commit --fixup bbb2222
+[my-feature-branch ddd4444] fixup! A second commit
+This will create
